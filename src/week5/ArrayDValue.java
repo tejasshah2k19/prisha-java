@@ -5,6 +5,8 @@ public class ArrayDValue {
 	public static void main(String[] args) {
 
 		int b[] = { 100, 200, 300, 400, 500 };
+		
+		
 		int a[] = new int[10];
 
 		for (int i = 0; i < a.length; i++) {
