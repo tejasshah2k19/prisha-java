@@ -9,4 +9,30 @@ primitive data types
 	long	8 byte
 	float	4 byte 
 	double 	8 byte
-	boolean 1 bit    true / false 
+	boolean 1 bit    true / false
+	
+	
+	class => variable + method 
+	object-> access class's property  
+	
+	instance varible
+	local variable
+	
+	constructor 
+	
+	static vs non static method 
+	
+	how to access method and variable using object 
+	
+	getters and setters 
+	
+	getters => getName() getAge() getAddress() getGender() 
+	
+	
+	
+	1) how to compare two objects?
+		override equals()  
+	2) can we use instance of ?
+	3) what is impact of == on objects?
+	4) what it display when we print object? how to override it?
+	5) 

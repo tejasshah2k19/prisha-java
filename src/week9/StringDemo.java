@@ -19,8 +19,13 @@ public class StringDemo {
 		System.out.println(s == s2); // false
 
 		// value
-		System.out.println(s2.equals(s3));//true 
-		System.out.println(s.equals(s2));//true
+		System.out.println(s2.equals(s3));// true
+		System.out.println(s.equals(s2));// true
+	
+		//object -> access property [ variable method ] 
+		
+		//obj.var 
+		//obj.method() 
 	}
 
 }
