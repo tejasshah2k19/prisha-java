@@ -35,4 +35,97 @@ primitive data types
 	2) can we use instance of ?
 	3) what is impact of == on objects?
 	4) what it display when we print object? how to override it?
-	5) 
+------------------------------------------------------------------------------------
+java --> 
+		jdk :- java development kit --tools {jre}
+			javac -> java compiler  
+			java 
+		
+		
+		
+		jre :- java runtime enviornment --run  
+			-> jvm , classloader , jit , lib 
+		 
+os -> jre -> pre install 
+
+
+text editor -> vs code 
+ide -> eclipse , intelliej 	
+
+
+java -> 1 1.1 , 2 1.2 ,....5,6,7........ 8 1.8
+								   11 
+								   17 		  
+								   19	 
+---------------------------------------------------------------------------------
+
+terminal -> javac -version , java -version 
+
+--------------------------------------------------------------------
+
+java -> eng HL
+   compiler -> compile ->  translate -> HL -> java { computer } 
+computer -> binary LL 
+
+
+
+.java -> ENG -> HL 
+
+javac -> java compiler -> compile -> .java -> .class 
+java -> java execute => run -> .class -> jre 
+
+
+java is platform/os independant 
+
+
+------------------------------------------------------------------
+
+.java --> .class
+
+
+oop-> class + object 
+
+class  : logical , group , generalization 
+object : physical , member  , specilization 
+
+Laptop 
+
+	Legion Y520 -> object 
+	
+Mango 
+	KesarMango 
+	
+	
+Men 
+	DhirajSir 
+Women 	
+	Prisha 	
+	
+-------------------------------------------------------------------------------	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
