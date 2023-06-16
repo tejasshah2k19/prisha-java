@@ -155,7 +155,7 @@ access array using index
   sort=>9 10 12 32 34 
 
 4) 10 20 30 20 10 
-palindrome�array
+palindrome array
 
 
 
@@ -189,7 +189,54 @@ i
 	b[j][i] = a[i][j]; 
 
  
+------------------------------------------
+String s; //class 
 
+
+String s1 = new String("royal"); 
+String s2 = "royal"; 
+String s3 = "Royal"; 
+
+//when you want to store multiple characters  -- r royal
+//single character => char data type  
+
+
+char c = 'x'; 
+String st = "student";  //s:0 t:1 u:2 d:3 e:4 n:5 t:6  
+
+System.out.println(st.length()); //how many characters you have 
+
+System.out.println(st.charAt(0)); //s
+System.out.println(st.charAt(3)); //d
+
+
+System.out.println(st.indexOf('d')); //3 
+System.out.println(st.indexOf('z')); //-1
+
+String x = "jack";
+String y = "jack";
+String z = "Jack";
+
+System.out.println(x.equals(y)); //true 
+System.out.println(x.equals(z)); //false 
+
+System.out.println(x.equalsIgnoreCase(z)); //true 
+ 
+
+System.out.println(x.startsWith("james"); //false 
+System.out.println(x.endsWith("james"); //false 
+
+
+System.out.println(x.endsWith("@gmail.com"); //false 
+
+
+
+
+
+
+1) Vowels count in a string
+2) check credentials of user [ admin@gmail.com , admin123 ] 
+3) count digit and uppercase from string
 
 
 	
