@@ -13,9 +13,8 @@ public class DataTypeDemo {
 class Abc{
 	//class -> variable + methods 
 	//data members + member function 
-
-}
-/*
+}  
+/*cxv
  * 
  * primitive 
  * 		short 

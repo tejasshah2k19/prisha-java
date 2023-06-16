@@ -102,10 +102,96 @@ Women
 	Prisha 	
 	
 -------------------------------------------------------------------------------	
+
+
+class -> 	blue print --> implementation 
+
+
+Facebook -> Account -> method -> 
+			Payment -> method -> 
+		
+	class -> properties -> method + variable 
+	object -> method and variable use 
+-----------------------------------------------------------------------------------	
 	
+Scanner --> java 
+
+	nextInt()
+	nextFloat()
+	nextDouble()
+	next()
+	nextLine()
+		 
+	object 
+-------------------------------------------------------------------------
+
+
+array is a collection of same type of data type 
+
+int a[]; 
+int a[] = new int[5]; 
+int a[] = new int[15]; 
+
 	
-	
-	
+access array using index 
+
+	int a[] = new int[5]; 
+ 		a[0] a[1] a[2] a[3] a[4] 
+
+-------------------------------------------------------------------------
+
+
+1) copy 1d array into another 1d Arra 
+	a=>1 2 3 4 5 
+ 	b=>1 2 3 4 5 
+	c=>5 4 3 2 1
+
+ 
+2) a=> 10 20 30 40 50
+   righshift -> 
+   a=>50 10 20 30 40     		
+
+3) 10 12  9 34 32 
+  sort=>9 10 12 32 34 
+
+4) 10 20 30 20 10 
+palindrome array
+
+
+
+XXXX => 
+
+	10 10 20 30 40
+	i
+	            
+	     a[i] = a[i-1];        
+	 
+
+
+
+
+1) scan print 
+2) sum of all elements of 2d 
+3) min and max from 2d 
+4) sum of all elements of 2d - row wise 
+5) transpose => row -> col 
+	a=>		1 2 3  
+			4 5 6 
+			7 8 9 
+				
+	b=>		1	4	7
+			2	5	8
+			3	6	9
+
+
+i 
+ j 
+	b[j][i] = a[i][j]; 
+
+ 
+
+
+
 	
 	
 	
