@@ -191,8 +191,42 @@ i
  
 
 
+----------------------------------------------------------------------------------------------
+inheritance --> feature of oop 
+java --> oop -> inheritance 
 
+inheritance -> re-use ->
+	inheritance is the process by which object 
+	of one class can access property of another class. 
+	 
+	extends keyword is used to achieve inheritance 
 	
+	we have 5 types of inheritance in oop 
+	java directly supports 4 types 
+	using interface we can support 5th 
+ 
+	class who gives the property is known as parent-super-base  
+	class who takes the property is known as child-sub-derived 
+	
+----------------------------------------------------------------------------	
+	
+	now create method for scanning variable and printing variable 
+	do not make duplicate code for scan and print 
+	 
+	 void getData(){
+	 }
+	 void printData(){
+	 }
+	 
+	 
+	 we want only two object in main method 
+	 we need to create  1 regular typist and 1 casual typist 
+	 from regular typist we want to scan all - code name speed salary 
+	 from casual typist we want to scan all - code name speed dailyWages 
+	 
+	 after scaning we need to call print for them  
+----------------------------------------------------------------------------	
+	 
 	
 	
 	
