@@ -275,14 +275,52 @@ inheritance -> re-use ->
 	 after scaning we need to call print for them  
 ----------------------------------------------------------------------------	
 	 
+	sbi
 	
+	icici
 	
+	pnb 
 	
+			saving current fb wid() dep() chkBal() 
+			
+	
+-----------------------------------------------------------------------------
+
+
+Employee have firstname,lastname,username,password,basic salary,salary.
+
+Employee can access any data using login in application.
+
+Payroll system will calculate salary of employee. 
+
+Our system has two types of employee part time employee and full time employee. 
+
+Part time employee get basic salary and 10% bonus of basic salary.
+
+Full time employees get a 10% bonus , 7% HRA , 5% uniformallow. , 8% leave bonus.
+our payroll system will calculate salary using above data. 
+	
+class ? 
+variable ?
+method ?
+
+-----------------------------------------------------------------------------------
+
+
+collection -> 
 
 
 
+						List --> interface 
+ArrayList 							Vector  
 
-
+		add()
+		remove()
+		iterate 
+		size() 
+		
+array -> size : fix  		
+	0th 1st 2nd 
 
 
 
