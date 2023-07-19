@@ -322,6 +322,55 @@ ArrayList 							Vector
 array -> size : fix  		
 	0th 1st 2nd 
 
+----------------------------------------------------------------------------------------------------
+
+Student.java
+     id,name,year,grade
+Course.java 
+    cname,capacity 
+
+
+StudentCourse.java 
+     main -> 
+	How many Course You want to create ? 
+ 	4 
+  
+        Enter CourserName and Capacity : 
+        C 
+	20
+
+        Enter CourserName and Capacity : 
+        C++ 
+	20
+
+	Enter CourserName and Capacity : 
+        java 
+	20
+        
+	Enter CourserName and Capacity : 
+        C# 
+	20
+   
+     How Many Students you want to add? 
+       3 
+      enter id , enter name , enter year , enter grade 
+      how many course you want to enroll? 
+      3 
+  
+	enter course name : 
+	C   [ course name present ? capcity ? => FALSE | TRUE ] 
+
+	enter course name : 
+	C++   [ course name present ? capcity ? => FALSE | TRUE ] 
+
+	enter course name : 
+	.NET   [ course name present ? capcity ? => FALSE | TRUE ] 
+
+
+	Print All Student Detail 
+        id name year grade | course Name 
+    
+
 
 
 
