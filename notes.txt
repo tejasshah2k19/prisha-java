@@ -372,7 +372,34 @@ StudentCourse.java
     
 
 
+--------------------------------------------------------------------------
 
+ExpensManager -: 
+
+
+expenseMaster.txt 
+
+tejas	tejas@gmail.com		dmart 		grocery 	5000
+ram		ram@gmail.com		bigBazar	grocery		5000
+tejas	tejas@gmail.com		milkbasket	dairy		2500
+laxman	lax@gmail.com		sanjivani	medical		15000
+ram		ram@gmail.com		dmart		grocery		3000
+ram		ram@gmail.com		milkbasket	dairy		6000
+
+using above file calculate expenses of the user category wise 
+
+tejas		
+grocery:5000
+dairy:2500 
+medical:0
+
+ram:
+grocery:8000
+dairy:6000
+medical:0
+
+laxman:
+medical:15000
 
 
 
