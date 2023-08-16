@@ -402,6 +402,51 @@ laxman:
 medical:15000
 ------------------------------------------------------------
 
+CGCAT
+CATGAC
+ACATG
+
+CGCAT +  CATGAC -> CGCATGAC 
+CATGAC + CGCAT  -> CATGACGCAT 
+GCTCAGC + TCA   -> GCTCAGC
+
+
+------------------------------------------------------------
+class -> Avengers 
+				main 
+					num 
+					print square 
+					
+class -> Avengers 
+				spiderman(num){
+					return num*num;
+				}
+				main 
+					num -> scan 
+					num = spiderman(num);
+					print(num);
+					
+2) create 1 trim() which takes string and length as argument , 
+		process => trim the string with given lenght 
+						royal,3 
+						roy 
+		return -> return the trim string 
+		String trim(String data,int length)				
+						
+
+3) create arraySum method which takes array list of integer as an argument 
+		and it returns max number from arraylist 
+		
+		int max(ArrayList<Integer> list)
+		
+		
+		
+		
+		
+		
+
+
+
 
 
 
